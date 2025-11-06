@@ -1,7 +1,7 @@
 This project is a VR action-rhythm experience that combines fast-paced shooting mechanics with dynamic music synchronization. Players move through stylized levels, dodging obstacles and taking down enemies in rhythm with the beat.
 The goal was to explore VR gameplay design, motion-based input, and music synchronization systems within a short summer development period — emphasizing creativity, performance, and player immersion.
 
-#How to clone and Open in Unity:
+# How to clone and Open in Unity:
 1) Clone the Repo at a desired locations on your local drive
 2) Launch Unity Hub.
 3) Click Add Project → Add from Disk.
