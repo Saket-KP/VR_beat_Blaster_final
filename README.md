@@ -9,3 +9,4 @@ The goal was to explore VR gameplay design, motion-based input, and music synchr
 5) Make sure Unity detects the correct Editor Version (e.g., 2022.3 LTS).
 6) Click Open Project.
 7) Unity will import all assets automatically (this may take a few minutes on first launch).
+ 
